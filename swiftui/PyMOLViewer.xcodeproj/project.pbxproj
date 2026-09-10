@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		012182FD275AE30AF5663457 /* GlycanTopologyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9BEB27834F9CF6697BDF95 /* GlycanTopologyView.swift */; };
 		020822B7AD61092433C2F78E /* whatsnew-170-move.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C570F9CAC877E201F237016 /* whatsnew-170-move.png */; };
 		042F08F899EE19B73EFEC143 /* CommandPanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B50D264C420888CBF7FDE633 /* CommandPanel.swift */; };
 		057F3C59DACA26AAC603702E /* AppBuildInfoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE160C6EB58F631604002E6 /* AppBuildInfoTests.swift */; };
@@ -31,6 +32,7 @@
 		2C2D4B24DF4807FA1407582D /* KeyRouting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3697F74BD2283492B5A7790C /* KeyRouting.swift */; };
 		2E559E9581421DDC00C8BBB8 /* DesignScoreCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC5AE545F97DF175BFE0462 /* DesignScoreCache.swift */; };
 		300656C47AD9A9C18C129C42 /* SequencePanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 474D18A43D0D9A6BDD69EEFD /* SequencePanel.swift */; };
+		31D695FD43081FF7BE38907C /* GlycanTopologyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9BEB27834F9CF6697BDF95 /* GlycanTopologyView.swift */; };
 		33C46A7EB6127A6A99D7048D /* TimelinePanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B820FE9080BF73526A54CD66 /* TimelinePanel.swift */; };
 		36D99340CCDDAD7C67680476 /* whatsnew-161-hover.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 6E2FC2AD1A8FEE912986DF9D /* whatsnew-161-hover.mp4 */; };
 		3A8107D094C920B600681B74 /* ThemeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDC5E722722DEF7FBB1D649F /* ThemeManager.swift */; };
@@ -190,6 +192,7 @@
 		2345D7E2703CF29D4A2AA277 /* DesignAvailabilityTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAvailabilityTests.swift; sourceTree = "<group>"; };
 		29DBC7BEEA492BFACB616C34 /* whatsnew-152-camera-dock.mp4 */ = {isa = PBXFileReference; path = "whatsnew-152-camera-dock.mp4"; sourceTree = "<group>"; };
 		2B749BA43350521D047F2CE4 /* whatsnew-190-design.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "whatsnew-190-design.png"; sourceTree = "<group>"; };
+		2C9BEB27834F9CF6697BDF95 /* GlycanTopologyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlycanTopologyView.swift; sourceTree = "<group>"; };
 		33D6A753E4525628B96C259C /* PyMOLEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PyMOLEngine.swift; sourceTree = "<group>"; };
 		356FC561FA1515B3D15A26E2 /* PyMOLBridge.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = PyMOLBridge.mm; sourceTree = "<group>"; };
 		35DC456EDC3E55F84506C8B7 /* NotesInspectorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesInspectorView.swift; sourceTree = "<group>"; };
@@ -300,6 +303,7 @@
 			isa = PBXGroup;
 			children = (
 				B50D264C420888CBF7FDE633 /* CommandPanel.swift */,
+				2C9BEB27834F9CF6697BDF95 /* GlycanTopologyView.swift */,
 				CE692F1547C53D28B5F9A9AD /* MCPConnectSheet.swift */,
 				B9EC978B16F58D988575E206 /* MCPDrivingBanner.swift */,
 				FB1304C662D9011F7C4505FC /* MCPStatusView.swift */,
@@ -1185,6 +1189,7 @@
 				2E559E9581421DDC00C8BBB8 /* DesignScoreCache.swift in Sources */,
 				65CE08E50C85C8ACDAC92D07 /* DesignSizeGuard.swift in Sources */,
 				8C04C5D4AB27F2D9BEF79561 /* GizmoOverlay.swift in Sources */,
+				012182FD275AE30AF5663457 /* GlycanTopologyView.swift in Sources */,
 				2C2D4B24DF4807FA1407582D /* KeyRouting.swift in Sources */,
 				B33C0620EDD48195A59B7DD8 /* MCPBridge.swift in Sources */,
 				55F78301BAF8CD914D86069D /* MCPConnectSheet.swift in Sources */,
@@ -1233,6 +1238,7 @@
 				6C8AA3C224C1B2106FBF4881 /* DesignScoreCache.swift in Sources */,
 				1A580F6792CD440D91FA9F45 /* DesignSizeGuard.swift in Sources */,
 				8F71359FAD68AE5D09416C1B /* GizmoOverlay.swift in Sources */,
+				31D695FD43081FF7BE38907C /* GlycanTopologyView.swift in Sources */,
 				768E23FCAB4D2B27205900B6 /* KeyRouting.swift in Sources */,
 				42D3395698D37E4BF7055EEA /* MCPBridge.swift in Sources */,
 				E777A44381A854B382874738 /* MCPConnectSheet.swift in Sources */,
